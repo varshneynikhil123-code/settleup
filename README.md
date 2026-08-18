@@ -90,3 +90,6 @@ Open `index.html` in a browser. There's nothing to install.
 Third semester project. Built alone, in roughly an hour a day.
 
 If you spot a bug in the settlement logic, please open an issue — that's the part I most want to get right.
+## Documentation
+
+[Software Requirements Specification (PDF)](docs/SettleUp-SRS-v2.3.pdf)
